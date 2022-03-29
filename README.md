@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Selin Yılmaz
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning CSS, HTML
-- 💞️ I’m looking to collaborate on works related to my profile
+- 💞️ I forward to new opportunities
 - 📫 [How to reach me](https://www.linkedin.com/in/yilmazselin/)
 
 <!---
