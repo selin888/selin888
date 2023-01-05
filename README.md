@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Selin Yılmaz
+- 👋 Hi, I’m Selin
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning CSS, HTML
 - 💞️ I look forward to new opportunities
